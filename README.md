@@ -321,20 +321,10 @@ Les contributions sont bienvenues ! Domaines prioritaires :
 
 ```bash
 # Fork et clone
-git clone https://github.com/votre-username/MetaSec.git
-
-# Créer branche
-git checkout -b feature/ma-fonctionnalite
+git clone [https://github.com/votre-username/MetaSec.git](https://github.com/datadr1p/metasec.git)
 
 # Développer et tester
-npm test
-npm run lint
-
-# Commit et push
-git commit -m "feat: description"
-git push origin feature/ma-fonctionnalite
-
-# Créer Pull Request
+npm run
 ```
 
 ---
