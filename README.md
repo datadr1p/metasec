@@ -251,27 +251,9 @@ npm start -- --profile=travail
 
 ## 🔧 Build et Distribution
 
-### Build Multi-Plateformes
-
-```bash
-# Toutes les plateformes
-npm run build
-
-# Windows uniquement
-npm run build:win
-
-# macOS uniquement
-npm run build:mac
-
-# Linux uniquement
-npm run build:linux
-```
-
 ### Formats de Distribution
 
 - **Windows** : NSIS installer + Portable
-- **macOS** : DMG
-- **Linux** : AppImage + deb
 
 ---
 
