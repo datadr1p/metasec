@@ -9,7 +9,7 @@
 [![Security](https://img.shields.io/badge/Security-Hardened-green.svg)]()
 [![Tor](https://img.shields.io/badge/Tor-Integrated-7D4698?logo=tor-project)](https://www.torproject.org/)
 
-<img src="MetaSec.png" alt="MetaSec Logo" width="200"/>
+<img src="https://github.com/user-attachments/assets/de170f2b-7374-46a3-9d55-f0ed8b006b27" alt="MetaSec Logo" width="200"/>
 
 **Privacy-First • Tor Native • Zero Telemetry • Session Isolation**
 
