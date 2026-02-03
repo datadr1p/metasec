@@ -116,8 +116,8 @@ MetaSec est un projet en développement actif. Il ne remplace pas le Tor Browser
 
 ```
 ┌──────────┐    SOCKS5     ┌─────┐    Encrypted    ┌──────────┐
-│ MetaSec  │──────────────>│ Tor │───────────────>│ Internet │
-│ Browser  │  127.0.0.1    │9050 │   3+ Hops      │          │
+│ MetaSec  │──────────────>│ Tor │───────────────> │ Internet │
+│ Browser  │  127.0.0.1    │9050 │   3+ Hops       │          │
 └──────────┘               └─────┘                 └──────────┘
 ```
 
